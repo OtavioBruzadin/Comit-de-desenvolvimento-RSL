@@ -2,7 +2,7 @@
 
 
 
-# Projeto: *Sistema de presença RSL*
+# Projeto: *Projeto Escola INFINITO*
 
 # Grupo: *Comitê de desenvolvimento RSL*
 
