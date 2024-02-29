@@ -33,7 +33,7 @@
 
 # Descrição do Projeto
 
-*&lt;Introdução do projeto&gt;*
+*&lt;O objetivo do projeto é desenvolver e documentar o sistema de faltas para uma escola.&gt;*
 
 # Análise de Requisitos Funcionais e Não-Funcionais
 *&lt;Descrição dos requisitos&gt;*
