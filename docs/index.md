@@ -29,8 +29,7 @@
 
 * Otavio Augusto Bruzadin
 * Arthur Ryuiti Sato Furukawa
-* Aluno 3
-
+* Guilherme Florio Vieira
 
 # Descrição do Projeto
 
