@@ -33,11 +33,11 @@
 
 # Descrição do Projeto
 
-*&lt Serão analisadas aulas de 5 salas diferentes, do primeiro ao quinto ano, e cada sala tem por volta de 20 a 30 alunos. São 8 matérias diferentes, sendo que 6 são lecionadas pelo mesmo professor e 2 outros dão aulas diferentes. A chamada é feita sempre 2 vezes por dia, uma no início do dia e outra após o intervalo.
-Para um aluno ser aprovado no final do ano, ele precisa ter 75% de assiduidade no total de aulas. .&gt;*
+Serão analisadas aulas de 5 salas diferentes, do primeiro ao quinto ano, e cada sala tem por volta de 20 a 30 alunos. São 8 matérias diferentes, sendo que 6 são lecionadas pelo mesmo professor e 2 outros dão aulas diferentes. A chamada é feita sempre 2 vezes por dia, uma no início do dia e outra após o intervalo.
+Para um aluno ser aprovado no final do ano, ele precisa ter 75% de assiduidade no total de aulas. 
 
 # Análise de Requisitos Funcionais e Não-Funcionais
-*&lt;Requisitos Funcionais:
+Requisitos Funcionais:
 - Registros de faltas: Permite que os professores registrem as faltas.
 - Relatório de faltas: Armazena e gera relatórios das faltas por disciplina ou aluno, para facilitar a visualização posteriormente.
   
@@ -45,8 +45,7 @@ Requisitos Não Funcionais:
 - Notificações: Enviar notificações aos pais  por email em caso de faltas excessivas(a partir de 20% de faltas em relação as aulas).
 - Acessibilidade: Garante que o sistema seja apadtável e acessível a todos os tipos de usuários, incluindo pessoas com deficiências.
 - Visualização das faltas: Entra junto com o relatório de faltas, mas é o acesso que os alunos e pais terão sobre a assiduidade dos filhos.
-- Acesso a partir de qualquer navegador web, inclusive em dispositivos móveis
-&gt;*
+- Acesso a partir de qualquer navegador web, inclusive em dispositivos móveis.
 
 # Diagrama de Atividades
 
