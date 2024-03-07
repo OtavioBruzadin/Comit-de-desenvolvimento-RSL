@@ -33,7 +33,7 @@
 
 # Descrição do Projeto
 
-Serão analisadas aulas de 5 salas diferentes, do primeiro ao quinto ano, e cada sala tem por volta de 20 a 30 alunos. São 8 matérias diferentes, sendo que 6 são lecionadas pelo mesmo professor e 2 outros dão aulas diferentes. A chamada é feita sempre 2 vezes por dia, uma no início do dia e outra após o intervalo.
+Serão analisadas aulas de 5 salas diferentes, do primeiro ao quinto ano, e cada sala possui, em média, 20 a 30 alunos. Os alunos possuem 8 matérias diferentes, sendo que 6 matéirias são lecionadas pelo mesmo professor e 2 outros dão aulas diferentes. O registro de presença sempre será feito 2 vezes ao dia, uma no início das aulas e outra após o intervalo.
 Para um aluno ser aprovado no final do ano, ele precisa ter 75% de assiduidade no total de aulas. 
 
 # Análise de Requisitos Funcionais e Não-Funcionais
