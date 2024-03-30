@@ -53,7 +53,8 @@ Requisitos Não Funcionais:
 
 # Diagrama de Atividades
 
-*&lt;Diagrama para visualizer as pessoas das áreas de negócios e de desenvolvimento de uma organização para entender o processo e comportamento.&gt;*
+![image](https://github.com/OtavioBruzadin/Comit-de-desenvolvimento-RSL/assets/89026599/5c6c9896-f565-42d2-9d6e-cdbbe7ac2f7c)
+
 
 # Diagrama de Casos de Uso
 
