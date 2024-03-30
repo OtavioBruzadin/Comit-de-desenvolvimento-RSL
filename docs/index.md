@@ -58,11 +58,22 @@ Requisitos Não Funcionais:
 
 # Diagrama de Casos de Uso
 
-*&lt;Diagrama para visualizar o comportamento dos atores&gt;*
+![image](https://github.com/OtavioBruzadin/Comit-de-desenvolvimento-RSL/assets/89026599/710ca49f-e9c1-44f1-b519-71a14309fc36)
+
 
 # Descrição dos Casos de Uso
 
-*&lt;Descrição do comportamento entre os atores/resquisitos&gt;*
+**Ator Primário**: Professor
+- Registrar Faltas: Registra a ausência de um aluno em uma aula, necessário acessar o sistema, selecionar a turma e o aluno ausente para fazer o registro da falta.
+- Verificar Dados de Alunos: Verifica os dados do aluno matriculado, como nome, número de matrícula e histórico de faltas.
+- Acessar Relatório de Faltas: Professor utiliza o sistema para gerar relatórios que mostras as faltas registradas dos alunos, ajudando na análise.
+
+**Ator Primário**: Pais
+- Receber Notificação de Faltas: O sistema envia notificações automáticas aos pais de alunos que estiverem com uma taxa de presença de 80% ou menos.
+
+**Ator Primário**: Sistema
+- Gerar Notificação de Faltas: Com base nos registros de faltas feitos pelos professores, o sistema envia notificações aos pais de alunos com faltas excessivas.
+
 
 # Diagrama de Sequência
 
