@@ -58,7 +58,7 @@ Requisitos Não Funcionais:
 
 # Diagrama de Casos de Uso
 
-![image](https://github.com/OtavioBruzadin/Comit-de-desenvolvimento-RSL/assets/89026599/710ca49f-e9c1-44f1-b519-71a14309fc36)
+![image](https://github.com/OtavioBruzadin/Comit-de-desenvolvimento-RSL/assets/89026599/d65bfb7f-0d98-4bc0-9ee0-33928577ab9b)
 
 
 # Descrição dos Casos de Uso
