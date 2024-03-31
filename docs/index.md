@@ -53,12 +53,16 @@ Requisitos Não Funcionais:
 
 # Diagrama de Atividades
 
-![image](https://github.com/OtavioBruzadin/Comit-de-desenvolvimento-RSL/assets/89026599/5c6c9896-f565-42d2-9d6e-cdbbe7ac2f7c)
+![image](https://github.com/OtavioBruzadin/Comit-de-desenvolvimento-RSL/assets/89026599/89328157-5a69-4843-8597-b70e1951b59a)
+
+Link do Lucidapp: https://lucid.app/lucidchart/0f0e221a-cf37-426e-8691-9b55041dec08/edit?viewport_loc=-1986%2C-166%2C3324%2C1744%2C0_0&invitationId=inv_093fe5f8-203d-4089-b92f-db0879fc8ea7
 
 
 # Diagrama de Casos de Uso
 
 ![image](https://github.com/OtavioBruzadin/Comit-de-desenvolvimento-RSL/assets/89026599/d65bfb7f-0d98-4bc0-9ee0-33928577ab9b)
+
+Link do Lucidapp: https://lucid.app/lucidchart/0f0e221a-cf37-426e-8691-9b55041dec08/edit?viewport_loc=-1986%2C-166%2C3324%2C1744%2C0_0&invitationId=inv_093fe5f8-203d-4089-b92f-db0879fc8ea7
 
 
 # Descrição dos Casos de Uso
