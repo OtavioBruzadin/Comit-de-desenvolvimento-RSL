@@ -81,7 +81,9 @@ Link do Lucidapp: https://lucid.app/lucidchart/0f0e221a-cf37-426e-8691-9b55041de
 
 # Diagrama de Sequência
 
-*&lt;Diagrama de ordem e interação dos objetos&gt;*
+![image](https://github.com/OtavioBruzadin/Comit-de-desenvolvimento-RSL/assets/89026599/2c276804-8ca4-428b-b5ef-045d043c9e36)
+
+Link do Luciapp: https://lucid.app/lucidchart/218c909a-19b7-4d6b-bc75-3e1d268a10c7/edit?beaconFlowId=75DEAF841849A408&invitationId=inv_d2795dcb-fb6c-473b-851f-d2ff44b8dfc9&page=0_0#
 
 # Diagrama de Classes
 
