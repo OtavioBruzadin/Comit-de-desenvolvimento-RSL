@@ -38,7 +38,7 @@ Para um aluno ser aprovado no final do ano, ele precisa ter 75% de assiduidade n
 
 # Análise de Requisitos Funcionais e Não-Funcionais
 Requisitos Funcionais:
-- Registros de faltas: Permite que os professores registrem as faltas de forma intuitiva e deve incluir informações como data, aluno, turma.
+- Registros de faltas: Permite que os professores registrem as faltas e incluir outras informações como data, aluno, turma, horário.
 - Relatório de faltas: Armazena e gera relatórios das faltas por disciplina ou aluno, para facilitar a visualização posteriormente.
 - Acesso a partir de qualquer navegador web, inclusive em dispositivos móveis.
 - Notificações: Enviar notificações aos pais  por email em caso de faltas excessivas (a partir de 20% de faltas em relação as aulas).
