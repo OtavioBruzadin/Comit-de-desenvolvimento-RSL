@@ -33,8 +33,8 @@
 
 # Descrição do Projeto
 
-Foi feita a análise das aulas de 5 anos diferentes, do primeiro ao quinto ano; cada sala possui, em média, 20 a 30 alunos. Os alunos possuem 8 matérias diferentes, sendo que 6 matérias são lecionadas pelo mesmo professor, outras matérias específicas foram dadas por outros professores. O registro de presença deve ser feito 2 vezes ao dia, uma no início das aulas e outra após o intervalo.
-Para um aluno ser aprovado no final do ano, ele precisa ter 75% de assiduidade no total de aulas. 
+Foram feita as análises das aulas de 5 anos diferentes, do primeiro ao quinto ano; cada sala possui, em média, 20 a 30 alunos. Os alunos possuem 8 matérias diferentes, sendo que 6 matérias são lecionadas pelo mesmo professor, outras matérias específicas foram dadas por outros professores. O registro de presença deve ser feito 2 vezes ao dia, uma no início das aulas e outra após o intervalo.
+Para um aluno ser aprovado no final do ano, ele precisa ter um mínimo de 75% de assiduidade no total de aulas. 
 
 # Análise de Requisitos Funcionais e Não-Funcionais
 Requisitos Funcionais:
