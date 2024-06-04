@@ -99,7 +99,7 @@ Requisitos Não Funcionais:
 
 # Diagrama de Estados
 
-*&lt;Diagrama para permite modelar o comportamento interno de um determinado objeto, subsistema ou sistema global&gt;*
+![image](https://github.com/OtavioBruzadin/Comit-de-desenvolvimento-RSL/assets/146960599/63839ffd-49e0-47ac-93c2-ef9d9af86cb0)
 
 # Diagrama de Implantação
 
