@@ -42,6 +42,7 @@ Requisitos Funcionais:
 - Relatório de faltas: Armazena e gera relatórios das faltas por disciplina ou aluno, para facilitar a visualização posteriormente.
 - Acesso a partir de qualquer navegador web, inclusive em dispositivos móveis.
 - Notificações: Enviar notificações aos pais  por email em caso de faltas excessivas (a partir de 20% de faltas em relação as aulas).
+- Reprovar os alunos com mais de 25% de faltas do total de aulas ministradas
   
 Requisitos Não Funcionais:
 
@@ -49,20 +50,21 @@ Requisitos Não Funcionais:
 - Visualização das faltas: Permite o acesso dos responsáveis ao relatório de faltas, para assim terem informações relativas as faltas dos alunos.
 - Segurança: Garantir a segurança dos dados dos alunos, professores e da escola.
 - Compatibilidade: Compatível com diferentes dispositivos e sistemas operacionais.
+- Implementação com multiplos acessos simultâneos
+- Usuário deve escolher uma senha com caracteres alfanuméricos
 
 
 # Diagrama de Atividades
 
 ![image](https://github.com/OtavioBruzadin/Comit-de-desenvolvimento-RSL/assets/89026599/89328157-5a69-4843-8597-b70e1951b59a)
 
-Link do Lucidapp: https://lucid.app/lucidchart/0f0e221a-cf37-426e-8691-9b55041dec08/edit?viewport_loc=-1986%2C-166%2C3324%2C1744%2C0_0&invitationId=inv_093fe5f8-203d-4089-b92f-db0879fc8ea7
 
 
 # Diagrama de Casos de Uso
 
-![image](https://github.com/OtavioBruzadin/Comit-de-desenvolvimento-RSL/assets/89026599/d65bfb7f-0d98-4bc0-9ee0-33928577ab9b)
+![image](https://github.com/OtavioBruzadin/Comit-de-desenvolvimento-RSL/assets/89026599/80feb51a-5899-4b40-83ea-0b92dce30ab9)
 
-Link do Lucidapp: https://lucid.app/lucidchart/0f0e221a-cf37-426e-8691-9b55041dec08/edit?viewport_loc=-1986%2C-166%2C3324%2C1744%2C0_0&invitationId=inv_093fe5f8-203d-4089-b92f-db0879fc8ea7
+
 
 
 # Descrição dos Casos de Uso
@@ -81,13 +83,19 @@ Link do Lucidapp: https://lucid.app/lucidchart/0f0e221a-cf37-426e-8691-9b55041de
 
 # Diagrama de Sequência
 
-![image](https://github.com/OtavioBruzadin/Comit-de-desenvolvimento-RSL/assets/89026599/2c276804-8ca4-428b-b5ef-045d043c9e36)
+# Fazer Chamada
+![image](https://github.com/OtavioBruzadin/Comit-de-desenvolvimento-RSL/assets/89026599/54ee499d-bba2-474c-bd6d-91a030d081c6)
 
-Link do Luciapp: https://lucid.app/lucidchart/218c909a-19b7-4d6b-bc75-3e1d268a10c7/edit?beaconFlowId=75DEAF841849A408&invitationId=inv_d2795dcb-fb6c-473b-851f-d2ff44b8dfc9&page=0_0#
+
+# Gerar Relatório
+![image](https://github.com/OtavioBruzadin/Comit-de-desenvolvimento-RSL/assets/89026599/c7f13350-4093-4af1-8e08-424849222555)
+
+
 
 # Diagrama de Classes
 
-*&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*
+![image](https://github.com/OtavioBruzadin/Comit-de-desenvolvimento-RSL/assets/89026599/c77a49f3-ff24-401a-8125-2877b5bfd531)
+
 
 # Diagrama de Estados
 
@@ -95,8 +103,13 @@ Link do Luciapp: https://lucid.app/lucidchart/218c909a-19b7-4d6b-bc75-3e1d268a10
 
 # Diagrama de Implantação
 
-*&lt;Diagrama para exibir o relacionamento de hardware e software no projeto&gt;*
+![image](https://github.com/OtavioBruzadin/Comit-de-desenvolvimento-RSL/assets/89026599/ea3376b5-e93d-4281-a554-e351545b5ca3)
+
 
 # Referências
 
 *&lt;Lista de referências&gt;*
+
+- Link Lucid: https://lucid.app/
+
+- Diagrams: https://app.diagrams.net
